@@ -1,5 +1,7 @@
 # historical_place
 
+![screenshot](assets/appSS.png)
+
 A new Flutter project.
 
 ## Getting Started
